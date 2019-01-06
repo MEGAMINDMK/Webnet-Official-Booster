@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://imgbb.com/"><img src="https://imgur.com/eh9uJc6.png" widht="50" height="50" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://imgur.com/eh9uJc6.png" widht="200" height="200" border="0"></a>
 </p>
 
 # Webnet Official Booster
