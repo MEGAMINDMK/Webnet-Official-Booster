@@ -4,4 +4,14 @@
 
 # Webnet Official Booster
 
-Webnet Official Booster is a software which optimizes your system where possible for best experience and performance of your pc, it also includes Game optimization for better performance and FPS
+Webnet Official Booster is a software which optimizes your system where possible for best experience and performance of your pc, it also includes Game optimization for better performance and FPS<br>
+# Manual Steps
+boost pc
+1. Set visual effect to -> Adjust for best performance
+2. set powerplan to -> high performance
+3. use hardisk as ram
+4. use usb as ram
+5. megamind booster
+6. set number of processors to all -> msconfigg
+7. turn off BITS Background intellegent service
+8. clean manager.exe if necessary
