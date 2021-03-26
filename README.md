@@ -16,8 +16,8 @@ boost pc
 7. turn off BITS Background intellegent service
 8. clean manager.exe if necessary
 
-#Download
+# Download
 Get the download from <a href="https://www.github.com/MEGAMINDMK/Webnet-Official-Booster/releases/download/v1.1/Webnet.Official.Booster.exe">Here</a>
 
-#Websie
+# Websie
 <a href="https://web-net.ml">Clicky!</a>
