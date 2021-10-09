@@ -15,6 +15,8 @@ boost pc
 6. set number of processors to all -> msconfigg
 7. turn off BITS Background intellegent service
 8. clean manager.exe if necessary
+9.display settings right click -> refresh rate 60hz or above
+10.services.msc -> windows update disabled
 
 # Download
 Get the download from <a href="https://www.github.com/MEGAMINDMK/Webnet-Official-Booster/releases/download/v1.1/Webnet.Official.Booster.exe">Here</a>
