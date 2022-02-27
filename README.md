@@ -28,8 +28,7 @@ boost pc
 19. upgrade to ssd<br>
 20. use directx 12<br>
 21. debloat windows using powershell as admin and run iwr -useb https://git.io/debloat|iex disable cortana, telemetry tasks, onedrive, install .net v3.5
-https://beebom.com/how-debloat-windows-11-improve-performance/
-<br>
+https://beebom.com/how-debloat-windows-11-improve-performance/<br>
 <b>Restart</b>
 
 # Download
