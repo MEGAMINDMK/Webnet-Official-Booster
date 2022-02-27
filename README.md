@@ -23,6 +23,10 @@ boost pc
 14. disable startup programs Settings > Apps > Startup<br>
 15. compress drive<br>
 16. windows update<br>
+17. uninstall uneccessary programs<br>
+18. upgrade ram<br>
+19. upgrade to ssd<br>
+20. use directx 12<br>
 
 # Download
 Get the download from <a href="https://www.github.com/MEGAMINDMK/Webnet-Official-Booster/releases/download/v1.1/Webnet.Official.Booster.exe">Here</a>
