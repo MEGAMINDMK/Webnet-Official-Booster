@@ -27,6 +27,7 @@ boost pc
 18. upgrade ram<br>
 19. upgrade to ssd<br>
 20. use directx 12<br>
+21. debloat windows using powershell as admin and run iwr -useb https://git.io/debloat|iex disable cortana, telemetry tasks, onedrive
 
 # Download
 Get the download from <a href="https://www.github.com/MEGAMINDMK/Webnet-Official-Booster/releases/download/v1.1/Webnet.Official.Booster.exe">Here</a>
