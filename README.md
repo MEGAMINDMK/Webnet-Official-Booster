@@ -21,6 +21,8 @@ boost pc
 12. disk cleanup<br>
 13. chkdsk<br>
 14. disable startup programs Settings > Apps > Startup<br>
+15. compress drive<br>
+16. windows update<br>
 
 # Download
 Get the download from <a href="https://www.github.com/MEGAMINDMK/Webnet-Official-Booster/releases/download/v1.1/Webnet.Official.Booster.exe">Here</a>
