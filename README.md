@@ -30,6 +30,7 @@ boost pc
 21. debloat windows using powershell as admin and run iwr -useb https://git.io/debloat|iex disable cortana, telemetry tasks, onedrive, install .net v3.5
 https://beebom.com/how-debloat-windows-11-improve-performance/<br>
 22. disable background app from settings > privacy > background apps > toggle off<br>
+23. ipconfig /FlushDNS
 <b>Restart</b>
 
 # Download
