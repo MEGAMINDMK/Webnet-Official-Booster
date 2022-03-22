@@ -31,7 +31,7 @@ boost pc
 https://beebom.com/how-debloat-windows-11-improve-performance/<br>
 22. disable background app from settings > privacy > background apps > toggle off<br>
 23. ipconfig /FlushDNS<br>
-24. cmd run mrt.exe /Q /F:Y
+24. cmd run mrt.exe /Q /F:Y<br>
 <b>Restart</b>
 
 # Download
