@@ -35,7 +35,7 @@ https://beebom.com/how-debloat-windows-11-improve-performance/<br>
 <b>Restart</b>
 
 # Download
-Get the download from <a href="https://www.github.com/MEGAMINDMK/Webnet-Official-Booster/releases/latest/download/Webnet.Official.Booster.exe">Here</a>
+Get the download from <a href="https://www.github.com/MEGAMINDMK/Webnet-Official-Booster/releases/latest/download/Webnet.Official.Optimizer.setup.exe">Here</a>
 
 # Websie
 <a href="https://web-net.ml">Clicky!</a>
