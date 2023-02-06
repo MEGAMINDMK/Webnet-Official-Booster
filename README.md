@@ -12,7 +12,7 @@ boost pc
 3. use hardisk as ram<br>
 4. use usb as ram<br>
 5. megamind booster<br>
-6. set number of processors to all -> msconfigg / Enable NO GUI Boot / Enable Selective Startup / <br>
+6. set number of processors to all -> msconfigg / Enable NO GUI Boot / Enable Selective Startup / Taskmngr Disable unwanted startup items<br>
 7. turn off BITS Background intellegent service<br>
 8. clean manager.exe if necessary<br>
 9. display settings right click -> refresh rate 60hz or above<br>
