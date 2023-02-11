@@ -12,7 +12,7 @@ boost pc
 3. use hardisk as ram<br>
 4. use usb as ram<br>
 5. megamind booster<br>
-6. set number of processors to all -> msconfigg / Enable NO GUI Boot / Enable Selective Startup / Taskmngr Disable unwanted startup items<br>
+6. set number of processors to all -> msconfig / Enable NO GUI Boot / Timeout 3 sec / Enable Selective Startup / Taskmngr Disable unwanted startup items<br>
 7. turn off BITS Background intellegent service<br>
 8. clean manager.exe if necessary<br>
 9. display settings right click -> refresh rate 60hz or above<br>
@@ -32,8 +32,8 @@ https://beebom.com/how-debloat-windows-11-improve-performance/<br>
 22. disable background app from settings > privacy > background apps > toggle off<br>
 23. ipconfig /FlushDNS<br>
 24. cmd run mrt.exe /Q /F:Y<br>
-25. win+r input powercfg.cpl -> click (Choose what the power buttons do), click (change settings that are currently unavailable), check mark (Turn on Fast Startup), click save changes
-<b>Restart</b>
+25. win+r input powercfg.cpl -> click (Choose what the power buttons do), click (change settings that are currently unavailable), check mark (Turn on Fast Startup), click save changes<br>
+<b>Restart System</b>
 
 # Download
 Get the download from <a href="https://www.github.com/MEGAMINDMK/Webnet-Official-Booster/releases/latest/download/Webnet.Official.Optimizer.setup.exe">Here</a>
