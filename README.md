@@ -32,6 +32,7 @@ https://beebom.com/how-debloat-windows-11-improve-performance/<br>
 22. disable background app from settings > privacy > background apps > toggle off<br>
 23. ipconfig /FlushDNS<br>
 24. cmd run mrt.exe /Q /F:Y<br>
+25. win+r input powercfg.cpl -> click (Choose what the power buttons do), click (change settings that are currently unavailable), check mark (Turn on Fast Startup), click save changes
 <b>Restart</b>
 
 # Download
