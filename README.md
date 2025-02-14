@@ -48,4 +48,4 @@ Get the download from <a href="https://www.github.com/MEGAMINDMK/Webnet-Official
 <img src="https://i.imgur.com/HKR5INT.png" widht="200" height="200" border="0">
 </p>
 
-Get the android version from <a href="https://play.google.com/store/apps/details?id=io.cordova.webnetbooster">Here</a> 
+Get the android version from <a href="https://github.com/MEGAMINDMK/Webnet-Official-Booster/raw/refs/heads/master/webnetbooster.apk">Here</a> 
